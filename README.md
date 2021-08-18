@@ -16,4 +16,6 @@ CGI and photographic images. We find that with more time
 provided to analyze the image, the accuracy of the human
 participant to differentiate the CGI and photographic image
 increases.
+
+
 Index Terms—computer graphics, photo-realistic, photo forensics
